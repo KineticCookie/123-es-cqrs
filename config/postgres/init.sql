@@ -1,0 +1,1 @@
+CREATE TABLE hourly(time TIMESTAMP, amount DOUBLE PRECISION);
